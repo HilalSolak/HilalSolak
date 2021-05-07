@@ -2,7 +2,9 @@
 📫 How to reach me: hilalsolak869@gmail.com
 
 🔭 I’m currently working on my projects for education.
-<img src="https://github-readme-stats.vercel.app/api?username=MustafaBKLZ&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=HilalSolak&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!--
 **HilalSolak/HilalSolak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
