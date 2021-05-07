@@ -1,6 +1,7 @@
 ### Hi there 👋
-##📫 How to reach me: hilalsolak869@gmail.com
- ##🔭 I’m currently working on my projects for education.
+📫 How to reach me: hilalsolak869@gmail.com
+
+🔭 I’m currently working on my projects for education.
 
 <!--
 **HilalSolak/HilalSolak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
