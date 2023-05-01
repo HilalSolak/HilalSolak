@@ -61,26 +61,26 @@
 
 <p align="center">
   <p>
-    <a href="https://github.com/kalayciburak" target="_blank">
+    <a href="https://github.com/HilalSolak" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=kalayciburak&count_private=true&show_icons=true&theme=nord">
       </a>
 </p>
   <p>
-  <a href="https://github.com/kalayciburak" target="_blank">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kalayciburak&theme=nord&date_format=j%20M%5B%20Y%5D" />
+  <a href="https://github.com/HilalSolak" target="_blank">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=HilalSolak&theme=nord&date_format=j%20M%5B%20Y%5D" />
   </a>
   </p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=torukobyte&theme=nord&v=2&layout=compact&langs_count=10&hide=Markdown,Config,xml,yaml,json,Cocoa,Solution+file,Csproj,textmate,Gitignore+file,Other,Text,cshtml,Groovy,IL,AUTO_DETECTED,csharp,Jsonc,Publish+Profile+file)](https://github.com/kalayciburak)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HilalSolak&theme=nord&v=2&layout=compact&langs_count=10&hide=Markdown,Config,xml,yaml,json,Cocoa,Solution+file,Csproj,textmate,Gitignore+file,Other,Text,cshtml,Groovy,IL,AUTO_DETECTED,csharp,Jsonc,Publish+Profile+file)](https://github.com/HilalSolak)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=27&duration=3000&pause=1000&color=88C0D0&background=2E3440&center=true&vCenter=true&width=750&height=70&lines=Sometimes+I+feel+so+alone%2C+I+just+don't+know;Feels+like+I+been+down+this+road+before;So+lonely+and+cold%2C+it's+like+something+takes+over+me;As+soon+as+I+go+home+and+close+the+door;Kinda+feels+like+d%C3%AAj%C3%A2+vu;I+wanna+get+away+from+this+place%2C+I+do;But+I+can't+and+I+won't%2C+say+I+try%2C+but+I+know+that's+a+lie;'Cause+I+don't+and+why%2C+I+just+don't+know)](https://youtu.be/NxkSEJ6Mv3M)
 
   <!-- <p>
-  <a href="https://github.com/kalayciburak?tab=repositories" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalayciburak&layout=compact&show_icons=true&theme=nord">
+  <a href="https://github.com/HilalSolak?tab=repositories" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HilalSolak&layout=compact&show_icons=true&theme=nord">
   </a>
   </p> -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kalayciburak&theme=nord)](https://github.com/kalayciburak)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HilalSolak&theme=nord)](https://github.com/HilalSolak)
 </div>
