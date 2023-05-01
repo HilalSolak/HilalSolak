@@ -8,9 +8,9 @@
 <!--- [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=HilalSolak.visitor-badge)](https://gitHub.com/HilalSolak) -->
 ![giphy](https://user-images.githubusercontent.com/56636066/235520153-5766b6b3-d060-497a-b095-b98ac8b9587b.gif)
 
- <img src="![giphy](https://user-images.githubusercontent.com/56636066/235519936-60858c86-b0a1-4d7e-b358-44afed9e6512.gif) "> 
+ <img src="![giphy](https://user-images.githubusercontent.com/56636066/235519936-60858c86-b0a1-4d7e-b358-44afed9e6512.gif) ","![giphy (1)](https://user-images.githubusercontent.com/56636066/235524032-ac3eae09-ebb0-4504-9817-68f38c391237.gif)"> 
 <hr>
-  ![giphy (1)](https://user-images.githubusercontent.com/56636066/235524032-ac3eae09-ebb0-4504-9817-68f38c391237.gif)
+  
 
 
 
