@@ -31,7 +31,7 @@
 </p>
   <p>
   <a href="https://github.com/HilalSolak" target="_blank">
-  [font background=c4f7fc <img align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=HilalSolak&theme=nord&date_format=j%20M%5B%20Y%5D" />]
+ <img align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=HilalSolak&theme=nord&date_format=j%20M%5B%20Y%5D" style="background-color: #c4f7fc;"/>
   </a>
   </p>
 
