@@ -22,12 +22,11 @@
 
 ![Hilal Solak's GitHub stats](https://github-readme-stats.vercel.app/api?username=HilalSolak&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=c792ea&text_color=c3c5cd&icon_color=ff79c6)
 
-
-  <!-- <p>
+<p>
   <a href="https://github.com/HilalSolak?tab=repositories" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HilalSolak&layout=compact&show_icons=true&theme=nord">
   </a>
-  </p> -->
+  </p> 
   <p>
   <a href="https://github.com/HilalSolak" target="_blank">
  <img align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=HilalSolak&theme=nord&date_format=j%20M%5B%20Y%5D"/>
