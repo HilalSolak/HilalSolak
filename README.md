@@ -35,12 +35,9 @@
   </a>
   </p>
 
-The writing's on the wall
-It won't go away
-It's an Omen
-You just run on automation
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=27&color=88C0D0&background=2E3440&center=true&vCenter=true&width=750&height=70&lines=The+writing%27s+on+the+wall%3BIt+won%27t+go+away%3BIt%27s+an+Omen%3BYou+just+run+on+automation)](https://www.youtube.com/watch?v=xMVTKOoy1uk)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=27&color=88C0D0&background=FFB6C1&center=true&vCenter=true&width=750&height=70&lines=The+writing%27s+on+the+wall%3BIt+won%27t+go+away%3BIt%27s+an+Omen%3BYou+just+run+on+automation)](https://www.youtube.com/watch?v=xMVTKOoy1uk)
 
 
   <!-- <p>
