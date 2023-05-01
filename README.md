@@ -21,7 +21,8 @@
 <a href="mailto:hilalsolak869@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171180-f237f180-a710-11eb-9aea-560e6d4490b7.png" width="55px"></img></a>
 
 ![Hilal Solak's GitHub stats](https://github-readme-stats.vercel.app/api?username=HilalSolak&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=c792ea&text_color=86888c&icon_color=e87f00)
-![Hilal Solak's GitHub stats](https://github-readme-stats.vercel.app/api?username=HilalSolak&count_private=true&show_icons=true&theme=default&bg_color=c4f7fc&title_color=24292e&icon_color=333333&text_color=333333)
+
+![Hilal Solak's GitHub stats](https://github-readme-stats.vercel.app/api?username=HilalSolak&count_private=true&show_icons=true&theme=default&bg_color=333333&title_color=24292e&icon_color=333333&text_color=c4f7fc)
 
 <p>
   <a href="https://github.com/HilalSolak?tab=repositories" target="_blank">
