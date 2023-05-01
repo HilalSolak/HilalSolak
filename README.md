@@ -7,11 +7,11 @@
   
 <!--- [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=HilalSolak.visitor-badge)](https://gitHub.com/HilalSolak) -->
 
- ![giphy](https://user-images.githubusercontent.com/56636066/235519936-60858c86-b0a1-4d7e-b358-44afed9e6512.gif) 
-  ![giphy (1)](https://user-images.githubusercontent.com/56636066/235524032-ac3eae09-ebb0-4504-9817-68f38c391237.gif)
+
+ 
 <hr>
   
-
+<img src=" ![giphy](https://user-images.githubusercontent.com/56636066/235519936-60858c86-b0a1-4d7e-b358-44afed9e6512.gif) " width="400" height="300" id="gif1"> <img src=" ![giphy (1)](https://user-images.githubusercontent.com/56636066/235524032-ac3eae09-ebb0-4504-9817-68f38c391237.gif)" width="400" height="300" id="gif2">
 
 
 [//]: # (## ⬇️ Contact me via these platforms!)
