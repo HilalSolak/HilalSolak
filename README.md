@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/56636066/235519936-60858c86-b0a1-4d7e-b358-44afed9e6512.gif" width="400" height="300" hspace="20">
+  <img src="![giphy (2)](https://user-images.githubusercontent.com/56636066/235534527-0e02947a-2bf6-40e7-b372-7653f0bb2b89.gif)" width="400" height="300" hspace="20">
   <img src="https://user-images.githubusercontent.com/56636066/235524032-ac3eae09-ebb0-4504-9817-68f38c391237.gif" width="400" height="300" hspace="20">
 </div>
 
