@@ -7,7 +7,8 @@
   
 <!--- [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=HilalSolak.visitor-badge)](https://gitHub.com/HilalSolak) -->
 
- <img src="https://c.tenor.com/GKlLEY5omHwAAAAC/bored-anime.gif"> 
+ <img src="![image](https://user-images.githubusercontent.com/56636066/235519642-ac8eacb7-bd0c-491d-a026-95fd6562ea2e.png)
+"> 
 <hr>
 
 
