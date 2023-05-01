@@ -13,15 +13,12 @@
   <img src="https://user-images.githubusercontent.com/56636066/235524032-ac3eae09-ebb0-4504-9817-68f38c391237.gif" width="400" height="300" hspace="20">
 </div>
 
- (## ⬇️ Contact me via these platforms!)
-
-[//]: # ()
+ ⬇️ Contact me via these platforms!
 
  <a href="https://www.linkedin.com/in/hilal-solak-a2770b1a6/" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171176-f19f5b00-a710-11eb-84e9-b16771b30e2d.png" width="55x"></img></a>
 
-[//]: # (<a href="https://www.instagram.com/hilalsolak.0" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116333770-b702f480-a7dc-11eb-8654-0378659e4719.png" width="55px"></img></a>)
-
-[//]: # (<a href="mailto:hilalsolak869@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171180-f237f180-a710-11eb-9aea-560e6d4490b7.png" width="55px"></img></a>)
+<a href="https://www.instagram.com/hilalsolak.0" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116333770-b702f480-a7dc-11eb-8654-0378659e4719.png" width="55px"></img></a>
+<a href="mailto:hilalsolak869@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171180-f237f180-a710-11eb-9aea-560e6d4490b7.png" width="55px"></img></a>
 
 
 
