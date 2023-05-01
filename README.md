@@ -62,7 +62,7 @@
 <p align="center">
   <p>
     <a href="https://github.com/HilalSolak" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=kalayciburak&count_private=true&show_icons=true&theme=nord">
+    <img src="https://github-readme-stats.vercel.app/api?username=HilalSolak&count_private=true&show_icons=true&theme=nord">
       </a>
 </p>
   <p>
