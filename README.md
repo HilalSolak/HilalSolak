@@ -29,7 +29,7 @@
   </p> 
   <p>
   <a href="https://github.com/HilalSolak" target="_blank">
- <img align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=HilalSolak&theme=nord&date_format=j%20M%5B%20Y%5D"/>
+ <img align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=HilalSolak&theme==default&bg_color=c4f7fc&title_color=e87f00&icon_color=e87f00&text_color=202428&date_format=j%20M%5B%20Y%5D"/>
   </a>
   </p>
 
