@@ -41,7 +41,7 @@ It's an Omen
 You just run on automation
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=27&duration=3000&pause=1000&color=88C0D0&background=2E3440&center=true&vCenter=true&width=750&height=70&lines=The+writing's+on+the +wall;It+ won't+ go  +away;It's+an+Omen;You+just+ run+ on+ automation)](https://www.youtube.com/watch?v=xMVTKOoy1uk)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=27&duration=3000&pause=1000&color=88C0D0&background=2E3440&center=true&vCenter=true&width=750&height=70&lines= The+writing's+on+the+wall;It+won't+go+away;It's+an+Omen;You+just+run+on+automation)](https://www.youtube.com/watch?v=xMVTKOoy1uk)
 
   <!-- <p>
   <a href="https://github.com/HilalSolak?tab=repositories" target="_blank">
