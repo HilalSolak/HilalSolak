@@ -20,7 +20,7 @@
 <a href="https://www.instagram.com/hilalsolak.0" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116333770-b702f480-a7dc-11eb-8654-0378659e4719.png" width="55px"></img></a>
 <a href="mailto:hilalsolak869@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171180-f237f180-a710-11eb-9aea-560e6d4490b7.png" width="55px"></img></a>
 
-![Hilal Solak's GitHub stats](https://github-readme-stats.vercel.app/api?username=HilalSolak&count_private=true&show_icons=true&theme=default&bg_color=c4f7fc&hide_border=true&bg_color=00000000&title_color=c792ea&text_color=86888c&icon_color=e87f00)
+![Hilal Solak's GitHub stats](https://github-readme-stats.vercel.app/api?username=HilalSolak&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=c792ea&text_color=86888c&icon_color=e87f00)
 ![Hilal Solak's GitHub stats](https://github-readme-stats.vercel.app/api?username=HilalSolak&count_private=true&show_icons=true&theme=default&bg_color=c4f7fc&title_color=24292e&icon_color=333333&text_color=333333)
 
 <p>
