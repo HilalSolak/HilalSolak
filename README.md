@@ -26,7 +26,7 @@
 
 <p>
   <a href="https://github.com/HilalSolak?tab=repositories" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HilalSolak&layout=compact&show_icons=true&=default&bg_color=c4f7fc&title_color=e87f00&icon_color=e87f00&text_color=202428">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilalsolak&layout=compact&show_icons=true&=default&bg_color=c4f7fc&title_color=e87f00&icon_color=e87f00&text_color=202428">
   </a>
   </p> 
   <p>
