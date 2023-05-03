@@ -12,7 +12,7 @@
   <img src="https://user-images.githubusercontent.com/56636066/235534527-0e02947a-2bf6-40e7-b372-7653f0bb2b89.gif" width="400" height="300" hspace="20">
   <img src="https://user-images.githubusercontent.com/56636066/235524032-ac3eae09-ebb0-4504-9817-68f38c391237.gif" width="400" height="300" hspace="20">
 </div>
-
+🌱 I’m currently learning Spring Boot and Microservices
  ⬇️ Contact me via these platforms!
 
  <a href="https://www.linkedin.com/in/hilal-solak-a2770b1a6/" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171176-f19f5b00-a710-11eb-84e9-b16771b30e2d.png" width="55x"></img></a>
