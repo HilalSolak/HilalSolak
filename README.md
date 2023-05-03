@@ -22,24 +22,7 @@
 <a href="https://www.instagram.com/hilalsolak.0" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116333770-b702f480-a7dc-11eb-8654-0378659e4719.png" width="55px"></img></a>
 <a href="mailto:hilalsolak869@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171180-f237f180-a710-11eb-9aea-560e6d4490b7.png" width="55px"></img></a>
 
-<p>
-  <a href="https://github.com/HilalSolak?tab=repositories" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HilalSolak&layout=compact&show_icons=true&=default&bg_color=c4f7fc&title_color=e87f00&icon_color=e87f00&text_color=202428">
-  </a>
-</p>
 
-![Hilal Solak's GitHub stats](https://github-readme-stats.vercel.app/api?username=HilalSolak&count_private=true&show_icons=true&theme=default&bg_color=c4f7fc&title_color=e87f00&icon_color=e87f00&text_color=202428)
-
-<p>
-  <a href="https://github.com/HilalSolak?tab=repositories" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HilalSolak&layout=compact&show_icons=true&=default&bg_color=c4f7fc&title_color=e87f00&icon_color=e87f00&text_color=202428">
-  </a>
-  </p> 
-  <p>
-  <a href="https://github.com/HilalSolak" target="_blank">
- <img align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=HilalSolak&theme==default&bg_color=c4f7fc&title_color=e87f00&icon_color=e87f00&text_color=202428&date_format=j%20M%5B%20Y%5D"/>
-  </a>
-  </p>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=27&color=e87f00&background=c4f7fc&center=true&vCenter=true&width=750&height=70&lines=The+writing%27s+on+the+wall%3BIt+won%27t+go+away%3BIt%27s+an+Omen%3BYou+just+run+on+automation)](https://www.youtube.com/watch?v=xMVTKOoy1uk)
