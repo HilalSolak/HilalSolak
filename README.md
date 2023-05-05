@@ -1,5 +1,4 @@
-![GitHub stars](https://img.shields.io/github/stars/HilalSolak?style=social) 
-<div align="center">
+
 
 [![GitHub followers](https://img.shields.io/github/followers/HilalSolak?style=flat&logo=github)](https://github.com/HilalSolak?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/HilalSolak?style=flat&logo=github&)](https://github.com/HilalSolak?tab=repositories)
@@ -31,7 +30,7 @@
   </p> 
   <p>
 
-  <a href="https://github.com/HilalSolak" target="_blank">
+<---  <a href="https://github.com/HilalSolak" target="_blank">    --/>
  <img align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=HilalSolak&theme==default&bg_color=c4f7fc&title_color=e87f00&icon_color=e87f00&text_color=202428&date_format=j%20M%5B%20Y%5D"/>
   </a>
   </p>
