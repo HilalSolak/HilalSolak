@@ -14,7 +14,7 @@
   <div align="center">
     🌱 I’m currently learning Spring Boot and Microservices
 </div>
-  
+<div align="center">  
  ⬇️ Contact me via these platforms!
 
  <a href="https://www.linkedin.com/in/hilal-solak-a2770b1a6/" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171176-f19f5b00-a710-11eb-84e9-b16771b30e2d.png" width="55x"></img></a>
@@ -34,6 +34,7 @@
  <img align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=HilalSolak&theme==default&bg_color=c4f7fc&title_color=e87f00&icon_color=e87f00&text_color=202428&date_format=j%20M%5B%20Y%5D"/>
   </a>
   </p>     
+   <div align="center">
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=27&color=e87f00&background=c4f7fc&center=true&vCenter=true&width=750&height=70&lines=The+writing%27s+on+the+wall%3BIt+won%27t+go+away%3BIt%27s+an+Omen%3BYou+just+run+on+automation)](https://www.youtube.com/watch?v=xMVTKOoy1uk)
