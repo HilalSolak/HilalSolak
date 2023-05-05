@@ -1,4 +1,4 @@
-<!-- ![GitHub stars](https://img.shields.io/github/stars/HilalSolak?style=social) -->
+![GitHub stars](https://img.shields.io/github/stars/HilalSolak?style=social) 
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/HilalSolak?style=flat&logo=github)](https://github.com/HilalSolak?tab=followers)
