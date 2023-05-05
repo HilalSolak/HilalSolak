@@ -30,10 +30,10 @@
   </p> 
   <p>
 
-<!---  <a href="https://github.com/HilalSolak" target="_blank">  
+  <a href="https://github.com/HilalSolak" target="_blank">  
  <img align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=HilalSolak&theme==default&bg_color=c4f7fc&title_color=e87f00&icon_color=e87f00&text_color=202428&date_format=j%20M%5B%20Y%5D"/>
   </a>
-  </p>     -->
+  </p>     
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=27&color=e87f00&background=c4f7fc&center=true&vCenter=true&width=750&height=70&lines=The+writing%27s+on+the+wall%3BIt+won%27t+go+away%3BIt%27s+an+Omen%3BYou+just+run+on+automation)](https://www.youtube.com/watch?v=xMVTKOoy1uk)
