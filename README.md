@@ -40,7 +40,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=27&color=e87f00&background=c4f7fc&center=true&vCenter=true&width=750&height=70&lines=The+writing%27s+on+the+wall%3BIt+won%27t+go+away%3BIt%27s+an+Omen%3BYou+just+run+on+automation)](https://www.youtube.com/watch?v=xMVTKOoy1uk)
 
 
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HilalSolak&theme=nord)](https://github.com/HilalSolak)
 </div>
