@@ -2,7 +2,10 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/HilalSolak?style=flat&logo=github)](https://github.com/HilalSolak?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/HilalSolak?style=flat&logo=github&)](https://github.com/HilalSolak?tab=repositories)
-  
+
+  # 💫 About Me:
+👋 Hi I'm Hilal<br>👩‍🎓I graduate as computer engineer<br>👩‍💻I'm currently working on Atmosware as a java developer intern<br><br><br><br>
+
   
 <!--- [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=HilalSolak.visitor-badge)](https://gitHub.com/HilalSolak) -->
 
@@ -11,9 +14,7 @@
   <img src="https://user-images.githubusercontent.com/56636066/235534527-0e02947a-2bf6-40e7-b372-7653f0bb2b89.gif" width="400" height="300" hspace="20">
   <img src="https://user-images.githubusercontent.com/56636066/235524032-ac3eae09-ebb0-4504-9817-68f38c391237.gif" width="400" height="300" hspace="20">
 </div>
-  <div align="center">
-    🌱 I’m currently learning Spring Boot and Microservices
-</div>
+ 
 <div align="center">  
  ⬇️ Contact me via these platforms!
 
