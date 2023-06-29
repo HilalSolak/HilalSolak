@@ -39,6 +39,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=27&color=e87f00&background=c4f7fc&center=true&vCenter=true&width=750&height=70&lines=The+writing%27s+on+the+wall%3BIt+won%27t+go+away%3BIt%27s+an+Omen%3BYou+just+run+on+automation)](https://www.youtube.com/watch?v=xMVTKOoy1uk)
 
-[![](https://visitcount.itsvg.in/api?id=hilalsolak&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HilalSolak&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=HilalSolak&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
