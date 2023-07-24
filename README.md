@@ -4,7 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/HilalSolak?style=flat&logo=github&)](https://github.com/HilalSolak?tab=repositories)
 
   # 💫 About Me:
-👋 Hi I'm Hilal<br>👩‍🎓I graduate as computer engineer<br>👩‍💻I'm currently working on Atmosware as a java developer intern<br><br><br><br>
+👋 Hi I'm Hilal<br>👩‍🎓I graduate as computer engineer<br>👩‍💻I'm currently working on Turkcell Technology as a java developer intern<br><br><br><br>
 
   
 <!--- [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=HilalSolak.visitor-badge)](https://gitHub.com/HilalSolak) -->
